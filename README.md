@@ -11,3 +11,5 @@ instruction :
           if wanna choose one, just block the code until the last point, and press ctrl + / 
        
 [x] AUTHOR : Ananda Fikri - clone writer
+
+# CODE IN LOVE : ANANDA FIKRI (Clone Writer)
